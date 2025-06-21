@@ -609,7 +609,7 @@ class TakerProtocol:
                         f"{Fore.WHITE+Style.BRIGHT} {formatted_time} {Style.RESET_ALL}"
                         f"{Fore.CYAN+Style.BRIGHT}... ]{Style.RESET_ALL}"
                         f"{Fore.WHITE+Style.BRIGHT} | {Style.RESET_ALL}"
-                        f"{Fore.BLUE+Style.BRIGHT}All Accounts Have Been Processed.{Style.RESET_ALL}",
+                        f"{Fore.BLUE+Style.BRIGHT}All Accounts Have Been Processed. Don't forget Follow https://t.me/airdropseeker_official{Style.RESET_ALL}",
                         end="\r"
                     )
                     await asyncio.sleep(1)
