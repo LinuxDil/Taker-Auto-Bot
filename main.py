@@ -12,6 +12,7 @@ from web3 import Web3
 from colorama import *
 from datetime import datetime
 from pyfiglet import Figlet
+import shutil
 import asyncio, time, json, os, pytz
 
 wib = pytz.timezone('Asia/Jakarta')
