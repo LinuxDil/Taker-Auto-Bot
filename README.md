@@ -1,4 +1,5 @@
 # Taker-Auto-Bot
+
 Auto Mining Taker Testnet
 
 ## How to run? Join Our Telegram Channel
